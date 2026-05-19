@@ -48,7 +48,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>3.5.0</version>
           <configuration>
-            <mainClass>rvt.App</mainClass>
+            <mainClass>rvt.Main</mainClass>
           </configuration>
         </plugin>
       </plugins>
