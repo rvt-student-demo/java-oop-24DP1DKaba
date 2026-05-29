@@ -1,5 +1,8 @@
-package rvt;
-import java.sql.*;
+package rvt.TodoList;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 public class sqlite {
     public static void main(String[] args) {
